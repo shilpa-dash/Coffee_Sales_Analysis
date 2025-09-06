@@ -51,34 +51,34 @@ The dataset includes transactional sales data for a coffee shop with the followi
 - **Tooltip Filters**: Drill down into daily sales details (Sales, Orders, Quantity)
 
 
-🎯 Key Insights
+## 🎯 Key Insights
 
 - Weekdays contribute 74.4% of total sales, while weekends account for 25.6%
 - Coffee generates the highest sales ($60.36K), followed by Tea ($44.54K)
 - Peak sales occur between 8 AM - 11 AM
 - Astoria location shows the highest sales among all stores
 
-💡 Business Impact
+## 💡 Business Impact
 
 This dashboard provides actionable insights that can help a coffee shop business:
 
-Optimize Staff Scheduling ⏰:
+**Optimize Staff Scheduling ⏰:**
 Identify peak sales hours (8 AM – 11 AM) to ensure proper staff allocation.
 
-Improve Product Strategy ☕🍰:
+**Improve Product Strategy ☕🍰:**
 Focus marketing efforts on top revenue generators (Coffee & Tea).
 Re-evaluate or promote low-performing items like packaged chocolate.
 
-Enhance Store Performance 🏬:
+**Enhance Store Performance 🏬:**
 Astoria branch leads in sales; replicate successful strategies in other locations.
 
-Increase Profitability 💰:
+**Increase Profitability 💰:**
 Design promotions to boost weekend sales, as weekdays dominate revenue.
 
-Data-Driven Decision Making 📊:
+**Data-Driven Decision Making 📊:**
 Provides KPIs and visual insights for business growth and customer trend analysis.
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 -- Power BI – Dashboard creation, interactive visualizations, KPIs
 
