@@ -80,9 +80,9 @@ Provides KPIs and visual insights for business growth and customer trend analysi
 
 🛠 Tools & Technologies Used
 
-Power BI – Dashboard creation, interactive visualizations, KPIs
-SQL – Data transformation, KPI calculations (Sales, Orders, Quantity, Growth %, Store/Category analysis, Hourly/Weekly trends)
-Excel/CSV – Raw dataset storage and initial loading
+-- Power BI – Dashboard creation, interactive visualizations, KPIs
+-- SQL – Data transformation, KPI calculations (Sales, Orders, Quantity, Growth %, Store/Category analysis, Hourly/Weekly trends)
+-- Excel/CSV – Raw dataset storage and initial loading
 
 ## 👩‍💻 Author  
 **Shilpa Dash**  
