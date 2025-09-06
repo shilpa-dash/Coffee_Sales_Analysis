@@ -51,7 +51,7 @@ The dataset includes transactional sales data for a coffee shop with the followi
 - **Tooltip Filters**: Drill down into daily sales details (Sales, Orders, Quantity)
 
 
- 🎯 Key Insights
+🎯 Key Insights
 
 - Weekdays contribute 74.4% of total sales, while weekends account for 25.6%
 - Coffee generates the highest sales ($60.36K), followed by Tea ($44.54K)
