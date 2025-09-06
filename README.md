@@ -41,24 +41,19 @@ The dataset includes transactional sales data for a coffee shop with the followi
 
 ## 📈 Dashboard Features  
 - **KPI Cards**: Track Total Sales ($157K), Total Orders (33,527), and Total Quantity (48,233)
-- 
 - **Sales Trend Line Chart**: Monitor daily sales trends and performance vs last month
-- 
 - **Donut Chart**: Compare weekday vs weekend sales distribution
-- 
 - **Bar Charts**: Analyze sales across store locations and product categories
--  
 - **Heatmap**: Visualize sales by day and hour for peak business times
-- 
 - **Tooltip Filters**: Drill down into daily sales details (Sales, Orders, Quantity)
 
 
  🎯 Key Insights
 
-Weekdays contribute 74.4% of total sales, while weekends account for 25.6%
-Coffee generates the highest sales ($60.36K), followed by Tea ($44.54K)
-Peak sales occur between 8 AM - 11 AM
-Astoria location shows the highest sales among all stores
+- Weekdays contribute 74.4% of total sales, while weekends account for 25.6%
+- Coffee generates the highest sales ($60.36K), followed by Tea ($44.54K)
+- Peak sales occur between 8 AM - 11 AM
+- Astoria location shows the highest sales among all stores
 
 💡 Business Impact
 
