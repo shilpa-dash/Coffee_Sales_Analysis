@@ -15,7 +15,7 @@ Key highlights of the dashboard:
 
 ## 📂 Repository Structure  
 
-
+```
 coffee-shop-sales-dashboard/
 │
 ├── data/ # Dataset (CSV/SQL scripts)
@@ -29,7 +29,7 @@ coffee-shop-sales-dashboard/
 │ └── Tooltip-Filter.png
 │
 ├── README.md # Project documentation
-
+```
 
 ## 📂 Dataset Information  
 The dataset includes transactional sales data for a coffee shop with the following fields:  
