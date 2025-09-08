@@ -11,26 +11,6 @@ Key highlights of the dashboard:
 - Hourly and Daily Sales Heatmap  
 - Drill-through and Tooltip Filters for detailed insights  
 
----
-
-## 📂 Repository Structure  
-
-```
-coffee-shop-sales-dashboard/
-│
-├── data/ # Dataset (CSV/SQL scripts)
-│ └── coffee_shop_sales.csv
-│
-├── dashboard/ # Power BI file
-│ └── Coffee_Shop_Sales.pbix
-│
-├── images/ # Dashboard screenshots
-│ ├── Coffee_shop_sales_Dashboard.png
-│ └── Tooltip-Filter.png
-│
-├── README.md # Project documentation
-```
-
 ## 📂 Dataset Information  
 The dataset includes transactional sales data for a coffee shop with the following fields:  
 - **Date** – Transaction date  
